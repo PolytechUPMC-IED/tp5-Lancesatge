@@ -1,0 +1,23 @@
+Exo1:
+
+4) git status nous renvoit l'état de l'index du répertoire à l'instant présent, 
+mais comme on a pas fait de git add sur le nouveau fichier il n'est pas présent 
+dans l'index.
+
+5) Grâce à git add on a ajouté le nouveau fichier dans l'index du répertoire 
+et git status nous indique qu'il y a un nouveau fichier présent dedans.
+
+6) Rien à valider avec git status car on a pas fait de changement non validé.
+
+8) git log -p nous affiche les caractéristiques du commit que l'on a créé.
+
+9) Git diff nous affiche les différences entre les différents commits et
+changement.
+
+Exo2:
+
+6) Le merge nous renvoit un erreur car sur une même ligne on a deux choses différents.
+
+
+
+
